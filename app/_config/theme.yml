@@ -1,0 +1,8 @@
+---
+Name: mytheme
+---
+SilverStripe\View\SSViewer:
+  themes:
+    - 'goodfood1'
+    - '$public'
+    - '$default'
